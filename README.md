@@ -8,7 +8,7 @@
 </p>
 
 <p align="left"> 
-  <a href="https://twitter.com/aaju_sharmaa" target="blank">
+
     <img src="https://img.shields.io/twitter/follow/aaju_sharmaa?logo=twitter&style=for-the-badge" alt="aaju_sharmaa" />
   </a> 
 </p>
