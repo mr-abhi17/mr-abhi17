@@ -4,12 +4,6 @@
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="400" align="right"/>
 
 
-<p align="left"> 
-
-    <img src="https://img.shields.io/twitter/follow/aaju_sharmaa?logo=twitter&style=for-the-badge" alt="aaju_sharmaa" />
-  </a> 
-</p>
-
 - 🔭 I’m currently working on **ASP.NET MVC Projects**
 - 🌱 I’m currently learning **.NET Core and Blazor**
 - 👯 I’m looking to collaborate on **Enterprise .NET Applications**
