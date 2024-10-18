@@ -13,17 +13,13 @@
 - 🔭 I’m currently working on **ASP.NET MVC Projects**
 - 🌱 I’m currently learning **.NET Core and Blazor**
 - 👯 I’m looking to collaborate on **Enterprise .NET Applications**
-- 🤝 I’m looking for help with **Cloud Integration and Microservices**
 - 💬 Ask me about **.NET Development, C#, and ASP.NET**
-- 📫 How to reach me **abhisheksharma.dotnet@gmail.com**
+- 📫 How to reach me **ab.sharma1708@gmail.com**
 - ⚡ Fun fact **Tea is a work essential, but I love to unwind with music, friends, and travel.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/aaju_sharmaa" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aaju_sharmaa" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/abhisheksharma2002" target="blank">
+  <a href="[https://linkedin.com/in/abhisheksharma2002](https://www.linkedin.com/in/abhishek-sharma-53193a23a/)" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhisheksharma2002" height="30" width="40" />
   </a>
 </p>
@@ -56,11 +52,4 @@
   </a> 
 </p>
 
-<h3 align="left">Support:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisheksharma-dotnet&show_icons=true&locale=en&layout=compact" alt="abhisheksharma-dotnet" />
-</p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisheksharma-dotnet&show_icons=true&locale=en" alt="abhisheksharma-dotnet" />
-</p>
