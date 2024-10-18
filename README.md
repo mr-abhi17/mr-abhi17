@@ -3,9 +3,6 @@
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="400" align="right"/>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=abhisheksharma-dotnet&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheksharma-dotnet" /> 
-</p>
 
 <p align="left"> 
 
